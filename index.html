@@ -11,7 +11,7 @@
 
 		<style>
 		    html {
-				font-size: 16pt;
+				font-size: 14pt;
 				line-height: 1.5;
 		    }
 			
@@ -33,6 +33,20 @@
 			small, .legend {
 				font-size: 80%;
 			}
+			
+			@media only screen and (min-width: 800px) {
+
+				html {
+					font-size: 16pt;
+				}
+				
+				.logo {
+					position: fixed;
+					top: 2em;
+					left: 2em;
+				}
+				
+			}
 		</style>
 
 		<meta name="theme-color" content="#77bc1f">
@@ -40,7 +54,7 @@
 
 	<body>
 
-		<img src="favicon.png" width="32" height="32" alt="Camelot is Bad">
+		<img src="favicon.png" width="32" height="32" alt="Camelot is Bad" class="logo">
 		
 		<h1>Camelot is Bad</h1>
 		
