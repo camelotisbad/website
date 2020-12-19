@@ -1,5 +1,7 @@
 # Leegstandbeheerder Camelot haalt de top met harteloze verhuur
-Merijn Rengers, Sam de Voogt
+Bron: https://www.nrc.nl/nieuws/2020/12/18/leegstandbeheerder-camelot-haalt-de-top-met-harteloze-verhuur-a4024271
+Auteur: Merijn Rengers, Sam de Voogt
+
 
 Bij de portieken van de vervallen betonnen wooncomplexen aan het Majoor Maelfaitplein en de Rector Vermeylenlaan in Antwerpen wemelt het van het afval: open blikjes en lege plastic flesjes, achtergelaten mondkapjes, door ongedierte aangevroten vuilniszakken. Een aantal trapgaten is dichtgetimmerd, de liften zijn buiten bedrijf. Bij de garageboxen hangen jongeren op scooters rond.
 
@@ -51,24 +53,23 @@ Laat ze maar naar de rechter stappen, is de filosofie van Camelot, zegt een ande
 
 Dalhuisen van !Woon heeft vaak met Camelot te maken gehad. „Wij komen ze in honderden procedures tegen”, zegt hij. „Meestal gaat het om kleine bedragen, maar om grote aantallen bewoners.” Praten met Camelot lukt altijd wel, zegt Dalhuisen, maar iets concreets levert dat zelden op. „Het is met Camelot een continu onderhandelingsproces, alles wat je wil, moet je bevechten.”
 
-Twee voorbeelden uit Amsterdam. Tien studenten van een complex vlakbij station Sloterdijk spannen in 2018 een zaak tegen Camelot aan. Zij keren zich tegen de verplichte kosten voor het inloggen op de website van het bedrijf – een eenmalig bedrag van ruim 200 euro – en tegen de eveneens verplichte schoonmaakkosten als ze zijn verhuisd; nogmaals 100 euro.
-Lees ook: Inloggen bij je huisbaas voor ruim 200 euro
+Twee voorbeelden uit Amsterdam. Tien studenten van een complex vlakbij station Sloterdijk spannen in 2018 een zaak tegen Camelot aan. Zij keren zich tegen de [verplichte kosten](https://www.nrc.nl/nieuws/2018/05/15/inloggen-bij-je-huisbaas-voor-ruim-200-euro-a1602925) voor het inloggen op de website van het bedrijf – een eenmalig bedrag van ruim 200 euro – en tegen de eveneens verplichte schoonmaakkosten als ze zijn verhuisd; nogmaals 100 euro.
 
-De rechter besluit een jaar later, in 2019, dat Camelot die kosten niet in rekening mocht brengen en moet terugbetalen aan de tien eisende huurders. De websitekosten zijn daarna geschrapt en aan alle huurders terugbetaald, de schoonmaakkosten niet. Van Gestel: „Er zijn namelijk ook rechters die in het verleden hebben geoordeeld dat we schoonmaakkosten niet hoeven terug te betalen.” Daarom weigert het bedrijf de schoonmaakkosten te schrappen en terug te betalen. Wel zegt Camelot een alternatief te overwegen waarbij huurders kunnen kiezen tussen zelf schoonmaken of 100 euro schoonmaakkosten betalen.
+De rechter besluit een jaar later, in 2019, dat Camelot die kosten niet in rekening mocht brengen en [moet terugbetalen](https://www.nrc.nl/nieuws/2019/04/03/verhuurder-camelot-moet-inlog-en-schoonmaakkostenterugbetalen-a3955581) aan de tien eisende huurders. De websitekosten zijn daarna geschrapt en aan alle huurders terugbetaald, de schoonmaakkosten niet. Van Gestel: „Er zijn namelijk ook rechters die in het verleden hebben geoordeeld dat we schoonmaakkosten niet hoeven terug te betalen.” Daarom weigert het bedrijf de schoonmaakkosten te schrappen en terug te betalen. Wel zegt Camelot een alternatief te overwegen waarbij huurders kunnen kiezen tussen zelf schoonmaken of 100 euro schoonmaakkosten betalen.
 
-Op een ander Amsterdams adres, een pand in beheer van Camelot op de Rijswijkstraat, is ook al jaren gedoe. Deze zomer krijgt – na overleg tussen eigenaar, Camelot en !WOON – elke bewoner van dit complex 260 euro servicekosten terug, vanwege een te hoge afrekening over het jaar 2018. En in november oordeelt de kantonrechter, na een rechtszaak die zich zes jaar voortsleepte, dat eigenaar Clever Real Estate te veel huur heeft gerekend aan 76 huurders. Daardoor heeft elk van hen recht op 240 euro teruggave per maand, mét terugwerkende kracht.
+Op een ander Amsterdams adres, een pand in beheer van Camelot op de Rijswijkstraat, is ook al jaren gedoe. Deze zomer krijgt – na overleg tussen eigenaar, Camelot en !WOON – elke bewoner van dit complex 260 euro servicekosten terug, vanwege een te hoge afrekening over het jaar 2018. En in november oordeelt de kantonrechter, na een rechtszaak die zich zes jaar voortsleepte, dat eigenaar Clever Real Estate [te veel huur heeft gerekend](https://www.wooninfo.nl/nieuws/2020/11/na-6-jaar-wachten-ruim-een-miljoen-huurverlaging/) aan 76 huurders. Daardoor heeft elk van hen recht op 240 euro teruggave per maand, mét terugwerkende kracht.
 
-Als onder meer Het Paroolover die rechterlijke uitspraak publiceert en Camelot als betrokken partij noemt, eist het bedrijf op hoge poten rectificatie – en krijgt die ook – omdat niet de leegstandsbeheerder maar eigenaar Clever Real Estate verantwoordelijk is voor het vaststellen van de huur. Onvermeld blijft dat Camelot 49 procent van de aandelen van Clever Real Estate in bezit heeft.
+Als onder meer [Het Parool](https://www.parool.nl/amsterdam/huurders-betalen-jarenlang-te-veel-huur-krijgen-1-3-miljoen-euro-terug~bb91483e/) over die rechterlijke uitspraak publiceert en Camelot als betrokken partij noemt, eist het bedrijf op hoge poten rectificatie – en krijgt die ook – omdat niet de leegstandsbeheerder maar eigenaar Clever Real Estate verantwoordelijk is voor het vaststellen van de huur. Onvermeld blijft dat Camelot 49 procent van de aandelen van Clever Real Estate in bezit heeft.
 
 Camelot heeft vorige week ook !Woon gesommeerd de berichten over de Rijswijkstraat te rectificeren, omdat het volgens Camelot meerdere onjuiste berichten heeft gepubliceerd. Van Gestel: „Wij hebben jarenlang de negatieve en onjuiste berichten van !Woon gelaten voor wat het was. Maar we zijn er klaar mee.”
 
-De huurdersorganisatie is niet van plan de berichten in te slikken.
+De huurdersorganisatie is [niet van plan](https://www.wooninfo.nl/nieuws/2020/12/camelot-is-boos-op-woon/) de berichten in te slikken.
 
 ## Entree in België
 
 In 2017 is Camelot het eerste bedrijf in de Vlaamse woongeschiedenis dat een vergunning krijgt om leegstaande woningen in de sociale sector anti-kraak te verhuren. Dat moest tijdelijke leegstand van sociale huurwoningen in Vlaanderen vermijden, zegt Verstichele van het Vlaamse Huurdersplatform. „Er zijn net zoveel mensen die in de sociale sector wonen als die op de wachtlijst voor een woning staan.”
 
-Camelot lobbyt begin 2017 in het Vlaamse parlement voor toelating. Van Gestel houdt de Vlaamse volksvertegenwoordigers voor dat er „in Nederland meer dan 150.000 mensen op deze manier wonen”. Hij zegt: „Sommigen hebben daar een soort van lifestyle van gemaakt. Ze benaderen leegstandsbeheerders met de vraag of ze bijvoorbeeld een mooi kasteeltje te huur hebben.” Waarmee Van Gestel maar wil zeggen dat anti-kraak niet hetzelfde is als wonen in aftandse huisjes.
+Camelot [lobbyt](https://www.vlaamsparlement.be/parlementaire-documenten/gedachtewisselingen-hoorzittingen/1239211) begin 2017 in het Vlaamse parlement voor toelating. Van Gestel houdt de Vlaamse volksvertegenwoordigers voor dat er „in Nederland meer dan 150.000 mensen op deze manier wonen”. Hij zegt: „Sommigen hebben daar een soort van lifestyle van gemaakt. Ze benaderen leegstandsbeheerders met de vraag of ze bijvoorbeeld een mooi kasteeltje te huur hebben.” Waarmee Van Gestel maar wil zeggen dat anti-kraak niet hetzelfde is als wonen in aftandse huisjes.
 
 Ook roemt hij zijn model als een manier om „politieagenten, brandweermannen en verpleegsters” met een relatief laag inkomen in de stad te laten wonen. „Sommige mensen zien dit als een manier om wat te kunnen sparen, zodat ze daarna een huis kunnen kopen of huren op de private huurmarkt.”
 
@@ -76,7 +77,7 @@ Vlaanderen besluit anti-kraak van sociale huurwoningen toe te staan, al is dat w
 
     „Een van de bewoners moest zijn woning binnenbreken met een koevoet, omdat Camelot het niet nodig vond de doorgang vrij te maken”
 
-Maar de entree van Camelot op de sociale huurmarkt in Vlaanderen wordt een fiasco. Deze zomer trekt de Vlaamse overheid de vergunning alweer in. In Leuven blijkt het bedrijf nauwelijks bewoonbare appartementen van corporatie Dijledal te verhuren – zonder daarvoor een zogeheten ‘conformiteitsattest’, dat in Vlaanderen de minimale kwaliteit van een woning moet waarborgen, te hebben aangevraagd. In de 54 woningen is asbest zichtbaar, zit er vocht in de muren, sluiten deuren of ramen slecht. „Een van de bewoners moest zijn woning binnenbreken met een koevoet, omdat Camelot het niet nodig vond de doorgang vrij te maken”, zegt Line de Witte, gemeenteraadslid in Leuven. „Voor brandblusapparaten moesten de bewoners zelf betalen, en bovendien twee keer zoveel als ze online kostten.” De woningen worden later door zowel de stad Leuven als de Vlaamse minister officieel onbewoonbaar verklaard.
+Maar de entree van Camelot op de sociale huurmarkt in Vlaanderen wordt een fiasco. Deze zomer trekt de Vlaamse overheid [de vergunning alweer in](http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=nl&caller=summary&pub_date=2020-07-31&numac=2020031123%0D%0A#top). In Leuven blijkt het bedrijf nauwelijks bewoonbare appartementen van corporatie Dijledal te verhuren – zonder daarvoor een zogeheten ‘conformiteitsattest’, dat in Vlaanderen de minimale kwaliteit van een woning moet waarborgen, te hebben aangevraagd. In de 54 woningen is asbest zichtbaar, zit er vocht in de muren, sluiten deuren of ramen slecht. „Een van de bewoners moest zijn woning binnenbreken met een koevoet, omdat Camelot het niet nodig vond de doorgang vrij te maken”, zegt Line de Witte, gemeenteraadslid in Leuven. „Voor brandblusapparaten moesten de bewoners zelf betalen, en bovendien twee keer zoveel als ze online kostten.” De woningen worden later door zowel de stad Leuven als de Vlaamse minister officieel [onbewoonbaar verklaard](https://pers.leuven.be/reactie-stad-leuven-op-bevestiging-onbewoonbaarheid-lolanden-door-vlaams-minister-van-wonen).
 
 Verstichele: „De woningen voldeden duidelijk zowel qua veiligheid als gezondheid niet.” En ook hier hebben bewoners hun huur cash betaald. Van Gestel: „Wij herkennen ons niet in de stelling dat woningen die enkele maanden daarvoor nog normaal verhuurd werden door een Belgische verhuurder, een maand later onveilig en ongezond zouden zijn. Bovendien ligt volgens de wet de verantwoordelijkheid bij de eigenaar, niet de beheerder.” Eigenaar Dijledal reageert niet op vragen van NRC.
 
@@ -112,12 +113,8 @@ De orderportefeuille van Camelot in Nederland groeit intussen door. In augustus 
 
 En Camelot heeft meer ambities. Een beursgang van een bedrijfsonderdeel wordt onderzocht. Camelot doet mee aan het ‘beursklasje’ van Euronext – een kapitaalmarkttraining is voor niet-genoteerde bedrijven die zich op een beursgang oriënteren. Aan de voorwaarde daarvoor om 400 miljoen euro aan vastgoed in exploitatie of aanbouw te hebben, voldoet het bedrijf inmiddels. De beursgang zou in het eerste kwartaal van 2022 moeten plaatsvinden.
 
-Dat gaat wel onder een nieuwe vlag. ‘Mosaic World’ is vanaf 1 januari de nieuwe overkoepelende naam van zijn bedrijf. Het doel van deze „grote stap voorwaarts”: een „betere profilering” van de verschillende bedrijfsonderdelen. De Vilder: „We willen het slechte imago van ons afschudden.”
+Dat gaat wel onder een nieuwe vlag. ‘[Mosaic World](https://www.youtube.com/watch?v=ppi6S1O9_1E&feature=youtu.be&ab_channel=CamelotEuropeNews)’ is vanaf 1 januari de nieuwe overkoepelende naam van zijn bedrijf. Het doel van deze „grote stap voorwaarts”: een „betere profilering” van de verschillende bedrijfsonderdelen. De Vilder: „We willen het slechte imago van ons afschudden.”
 
 De bedoeling is dat de dochterondernemingen – in leegstandbeheer, in vastgoedbeheer, in beveiliging en in vastgoedontwikkeling – uit elkaar worden getrokken, elk als eigen ‘merk’. De Vilder: „Deze ondernemingen hebben niks met elkaar te maken, en dus ook niet met de negatieve pers die één dochter krijgt. Onze mensen van de beveiligingsdochter hadden er last van dat er ‘Camelot’ op hun jasje staat. Als je op een bouwterrein wordt aangesproken met: ‘Ben jij een van die boeven van dat anti-kraakbedrijf?’, dan is dat niet leuk.”
 
 Met medewerking van Anouk van Kampen.
-
-Een versie van dit artikel verscheen ook in NRC Handelsblad van 19 december 2020
-
-Een versie van dit artikel verscheen ook in nrc.next van 19 december 2020
