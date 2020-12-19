@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>Camelot is bad</title>
+		<title>Camelot is Bad</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,7 +15,56 @@
 		<!-- Place favicon.ico in the root directory -->
 
 		<style>
-		  /* Styling */
+		    html {
+			font-size: 16pt;
+			line-height: 1.5;
+		    }
+			
+		    p, h1, h2, h3, li, small {
+			margin-left: auto;
+			margin-right: auto;
+			max-width: 600px;
+		    }
+			
+		    li {
+			background: rgba(0,0,0,.03);
+			margin-top: 1em;
+		    }
+			
+		    .note, code {
+			background-color: #ffa;
+		    }
+			
+		    code {
+			font-family: system-ui;
+			font-weight: bold;
+		    }
+			
+		    code, .breakword {
+			word-break: break-word;
+		    }
+			
+		    .subtle {
+			color: #aaa;
+		    }
+			
+		    .col {
+			columns: 150px;
+		    }
+			
+		    .col div {
+			break-inside: avoid-column;
+			padding: .5em;
+			font-size: .7em;
+		    }
+			
+		    .col div::before { content: '“'; }
+		    .col div::after { content: '”'; }
+		    .testimonials {
+			margin-left: auto;
+			margin-right: auto;
+			max-width: 550px;
+		    }
 		</style>
 
 		<meta name="theme-color" content="#fafafa">
@@ -23,7 +72,7 @@
 
 	<body>
 
-		<h1>Camelot is bad</h1>
+		<h1>Camelot is Bad</h1>
 
 	</body>
 
