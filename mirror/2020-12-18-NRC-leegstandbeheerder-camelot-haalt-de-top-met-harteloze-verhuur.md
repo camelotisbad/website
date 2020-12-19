@@ -1,8 +1,9 @@
 # Leegstandbeheerder Camelot haalt de top met harteloze verhuur
 Bron: https://www.nrc.nl/nieuws/2020/12/18/leegstandbeheerder-camelot-haalt-de-top-met-harteloze-verhuur-a4024271
-Datum: 18 december 2020
-Auteur: Merijn Rengers, Sam de Voogt
 
+Datum: 18 december 2020
+
+Auteur: Merijn Rengers, Sam de Voogt
 
 Bij de portieken van de vervallen betonnen wooncomplexen aan het Majoor Maelfaitplein en de Rector Vermeylenlaan in Antwerpen wemelt het van het afval: open blikjes en lege plastic flesjes, achtergelaten mondkapjes, door ongedierte aangevroten vuilniszakken. Een aantal trapgaten is dichtgetimmerd, de liften zijn buiten bedrijf. Bij de garageboxen hangen jongeren op scooters rond.
 
