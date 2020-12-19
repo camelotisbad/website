@@ -13,7 +13,7 @@ Binnen op de gangen ligt water, dat door een kapot dakraam heen is geregend. De 
 
 „Het is goedkoop, maar de service is waardeloos”, vertelt een Irakese bewoner op de tweede verdieping – hij blijft liever anoniem, uit angst dat hij zijn flat wordt uitgezet. Neem de verwarming, zegt hij. Die ging negen maanden geleden stuk. Toen Camelot na maanden aandringen langskwam, namen ze de kapotte boiler mee, vervanging kreeg hij niet. „Het is hier niet fijn wonen”, zegt hij. Maar hij heeft geen keus. „Andere opties in Antwerpen zijn te duur.” Andere bewoners hebben ook geen verwarming, of zelfs geen warm water.
 
-    „Ik vroeg telkens om een bonnetje. Maar ik heb hem nog nooit gehad.”
+> „Ik vroeg telkens om een bonnetje. Maar ik heb hem nog nooit gehad.”
 
 De Irakees en vijf andere Camelot-huurders die NRC in Hoboken sprak, hebben bovendien het gevoel dat er iets aan de hand is met hun huur. Twee maanden geleden kregen ze te horen dat ze die niet langer dienden over te maken naar een Belgisch rekeningnummer. Voortaan kon er gepind worden, of cash betaald, bij de Camelot-medewerker die maandelijks langs de deuren kwam. „Ik vroeg telkens om een bonnetje”, zegt de Irakees, die naar eigen zeggen maandelijks 325 euro aan huur heeft betaald. „Maar ik heb hem nog nooit gehad.”
 
