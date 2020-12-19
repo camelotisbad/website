@@ -1,5 +1,5 @@
 # Leegstandbeheerder Camelot haalt de top met harteloze verhuur
-Huurders geld aftroggelen, onbewoonbare panden verhuren: leegstandbeheerder Camelot is vooral op papier succesvol. 
+_Huurders geld aftroggelen, onbewoonbare panden verhuren: leegstandbeheerder Camelot is vooral op papier succesvol._
 
 Bron: https://www.nrc.nl/nieuws/2020/12/18/leegstandbeheerder-camelot-haalt-de-top-met-harteloze-verhuur-a4024271
 
