@@ -49,7 +49,7 @@ Camelot gaat voor het allerlaatste kwartje en houdt niet van terugbetalen, of he
 
 Laat ze maar naar de rechter stappen, is de filosofie van Camelot, zegt een ander. „Joost weet namelijk dat de meeste mensen voor zo’n klein bedrag dat toch niet doen.”
 
-    „Het is met Camelot een continu onderhandelingsproces, alles wat je wil, moet je bevechten.”
+> „Het is met Camelot een continu onderhandelingsproces, alles wat je wil, moet je bevechten.”
 
 Dalhuisen van !Woon heeft vaak met Camelot te maken gehad. „Wij komen ze in honderden procedures tegen”, zegt hij. „Meestal gaat het om kleine bedragen, maar om grote aantallen bewoners.” Praten met Camelot lukt altijd wel, zegt Dalhuisen, maar iets concreets levert dat zelden op. „Het is met Camelot een continu onderhandelingsproces, alles wat je wil, moet je bevechten.”
 
@@ -75,7 +75,7 @@ Ook roemt hij zijn model als een manier om „politieagenten, brandweermannen en
 
 Vlaanderen besluit anti-kraak van sociale huurwoningen toe te staan, al is dat wel met vergunningplicht en onder strenge voorwaarden. Alleen panden die gerenoveerd of gesloopt gaan worden mogen tijdelijk verhuurd worden door een anti-kraakbedrijf.
 
-    „Een van de bewoners moest zijn woning binnenbreken met een koevoet, omdat Camelot het niet nodig vond de doorgang vrij te maken”
+> „Een van de bewoners moest zijn woning binnenbreken met een koevoet, omdat Camelot het niet nodig vond de doorgang vrij te maken”
 
 Maar de entree van Camelot op de sociale huurmarkt in Vlaanderen wordt een fiasco. Deze zomer trekt de Vlaamse overheid [de vergunning alweer in](http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=nl&caller=summary&pub_date=2020-07-31&numac=2020031123%0D%0A#top). In Leuven blijkt het bedrijf nauwelijks bewoonbare appartementen van corporatie Dijledal te verhuren – zonder daarvoor een zogeheten ‘conformiteitsattest’, dat in Vlaanderen de minimale kwaliteit van een woning moet waarborgen, te hebben aangevraagd. In de 54 woningen is asbest zichtbaar, zit er vocht in de muren, sluiten deuren of ramen slecht. „Een van de bewoners moest zijn woning binnenbreken met een koevoet, omdat Camelot het niet nodig vond de doorgang vrij te maken”, zegt Line de Witte, gemeenteraadslid in Leuven. „Voor brandblusapparaten moesten de bewoners zelf betalen, en bovendien twee keer zoveel als ze online kostten.” De woningen worden later door zowel de stad Leuven als de Vlaamse minister officieel [onbewoonbaar verklaard](https://pers.leuven.be/reactie-stad-leuven-op-bevestiging-onbewoonbaarheid-lolanden-door-vlaams-minister-van-wonen).
 
